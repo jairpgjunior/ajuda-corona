@@ -81,7 +81,7 @@ export default class Page1 extends React.Component {
                       </div>
                   </a>
                   <div className="page1-0-7-2" /> 
-                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWjn_rPAh5MbDyOEaG_YWljqRilPPGTSWkQqVlRXNGC_-0mA/viewform?usp=pp_url&entry.432177611=Ofere%C3%A7o+Ajuda&entry.1393208237=Passear+com+o+c%C3%A3o" className="page1-0-7-3">
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWjn_rPAh5MbDyOEaG_YWljqRilPPGTSWkQqVlRXNGC_-0mA/viewform?usp=pp_url&entry.432177611=Ofere%C3%A7o+Ajuda&entry.1393208237=Aux%C3%ADlio+Pet" className="page1-0-7-3">
                       <div className="page1-card2_">
                           <Card2 img_src={"https://gstudio-hosting.s3.amazonaws.com/GV97G9GJUsMuU7ZCeDdWa2HfiCG3/undefined/c9ddcc4c-228b-474d-b223-738633aba35f/dog2-icon-green.png"} state={"default"} text={"Auxílio Pet"} /> 
                       </div>
@@ -215,7 +215,7 @@ export default class Page1 extends React.Component {
                               </div>
                           </a>
                           <div className="page1-1-2-1-1-2" /> 
-                          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWjn_rPAh5MbDyOEaG_YWljqRilPPGTSWkQqVlRXNGC_-0mA/viewform?usp=pp_url&entry.432177611=Ofere%C3%A7o+Ajuda&entry.1393208237=Passear+com+o+c%C3%A3o" className="page1-1-2-1-1-3">
+                          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWjn_rPAh5MbDyOEaG_YWljqRilPPGTSWkQqVlRXNGC_-0mA/viewform?usp=pp_url&entry.432177611=Ofere%C3%A7o+Ajuda&entry.1393208237=Aux%C3%ADlio+Pet" className="page1-1-2-1-1-3">
                               <div className="page1-card2_insta">
                                   <Card2 img_src={"https://gstudio-hosting.s3.amazonaws.com/GV97G9GJUsMuU7ZCeDdWa2HfiCG3/undefined/c9ddcc4c-228b-474d-b223-738633aba35f/dog2-icon-green.png"} state={"default"} text={"Auxílio Pet"} /> 
                               </div>
