@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:');
+
+.card2 {
+    display: flex;
+    flex-grow: 1;
+}
+
+.card2-_hover-2 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    cursor: pointer;
+}
+
+.card2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+}
+
+.card2-r1 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 21px;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #b2dfdb;
+    border: 1px solid #00796b;
+}
+
+.card2-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.card2-0-0-0-0-0 {
+    height: 0px;
+    flex-grow: 0.49;
+    flex-basis: 0px;
+}
+
+.card2-image-9 {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.card2-0-0-0-0-2 {
+    height: 0px;
+    flex-grow: 0.51;
+    flex-basis: 0px;
+}
+
+.card2-0-0-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 17px;
+}
+
+.card2-0-0-0-1-0 {
+    height: 0px;
+    flex-grow: 0.5151515151515151;
+    flex-basis: 0px;
+}
+
+.card2-fazer_compras_-3 {
+    width: 115px;
+    flex-shrink: 0;
+    font-family: "Roboto", sans-serif;
+    color: #004d40;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.card2-0-0-0-1-2 {
+    height: 0px;
+    flex-grow: 0.48484848484848486;
+    flex-basis: 0px;
+}
+
+.card2-0-0-0-2 {
+    width: 0px;
+    flex-shrink: 0;
+    flex-grow: 0.9583333333333334;
+    flex-basis: 0px;
+}
+
+.card2-default-3 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.card2-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+}
+
+.card2-r19 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 22px;
+    border-radius: 8px;
+    background: #e0f2f1;
+}
+
+.card2-1-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.card2-1-0-0-0-0-0 {
+    height: 0px;
+    flex-grow: 0.49019607843137253;
+    flex-basis: 0px;
+}
+
+.card2-image-2 {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.card2-1-0-0-0-0-2 {
+    height: 0px;
+    flex-grow: 0.5098039215686274;
+    flex-basis: 0px;
+}
+
+.card2-1-0-0-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 17px;
+}
+
+.card2-1-0-0-0-1-0 {
+    height: 0px;
+    flex-grow: 0.5142857142857142;
+    flex-basis: 0px;
+}
+
+.card2-fazer_compras_-6 {
+    width: 115px;
+    flex-shrink: 0;
+    font-family: "Roboto", sans-serif;
+    color: #004d40;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.card2-1-0-0-0-1-2 {
+    height: 0px;
+    flex-grow: 0.4857142857142857;
+    flex-basis: 0px;
+}
+
+.card2-1-0-0-0-2 {
+    width: 0px;
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}
