@@ -47,9 +47,11 @@ export default class Card1 extends React.Component {
                                   <div className="card1-1-0-0-1-1-0-2" /> 
                               </div>
                               <div className="card1-1-0-0-1-1-1">
+                                  <div className="card1-1-0-0-1-1-1-0" /> 
                                   <div className="card1-fazer_compras_-3">
                                       { this.props.text }
                                   </div>
+                                  <div className="card1-1-0-0-1-1-1-2" /> 
                               </div>
                           </div>
                           <div className="card1-1-0-0-1-2" /> 
