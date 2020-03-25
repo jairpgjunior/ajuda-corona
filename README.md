@@ -5,6 +5,5 @@ Olá! Seja bem-vindo. O nosso objetivo é desenvolver uma plataforma baseada em 
 - Rede de saúde ficará super lotada.
     - Faltarão equipamentos médicos para os profissionais trabalharem.
     - Faltarão suprimentos nos hospitais e centros de saúde.
-- 
 - Isolamento total não será viável por muito tempo no Brasil. Precisamos encontrar soluções para manter isolado apenas a população de risco, casos suspeitos e casos confirmados.
 
