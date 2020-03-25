@@ -7,6 +7,3 @@ Olá! Seja bem-vindo. O nosso objetivo é desenvolver uma plataforma baseada em 
     - Faltarão suprimentos nos hospitais e centros de saúde.
 - Isolamento total não será viável por muito tempo no Brasil. Precisamos encontrar soluções para manter isolado apenas a população de risco, casos suspeitos e casos confirmados.
 
-## Features Brainstorm
-![Features Brainstorm](https://github.com/jairpgjunior/ajuda-corona/blob/master/brainstorm-ajudacorona.com.png)
-
